@@ -1,0 +1,11 @@
+.title red {color:red;
+    font-size: 12px;
+    display: flex;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.red {
+    color: blue;
+    font: size 20px;
+    display: block;
+    font-family: 'Courier New', Courier, monospace;
+}
